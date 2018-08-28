@@ -1,0 +1,11 @@
+---
+title: "Testing Github"
+author: "Yi Tang Chen"
+date: "August 27, 2018"
+output: html_document
+---
+
+```{r}
+1+1
+```
+
